@@ -1,4 +1,3 @@
-const unusedVar = "this is unused";
-console.log("Hello, world");
-let x = 5
-let y = "double quotes"
+console.log('Hello, world');
+let x = 5;
+let y = 'single quotes';
